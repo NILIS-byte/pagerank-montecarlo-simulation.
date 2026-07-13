@@ -26,7 +26,7 @@ Per stimare la popolarità delle pagine, abbiamo implementato un modello probabi
 ## 🇬🇧 English Version
 
 ### 📝 Project Overview
-This project, developed in collaboration with [@PseudoDeVostroAmico](https://github.com/...), models and simulates Google's famous **PageRank** algorithm. PageRank measures the importance of a webpage by analyzing the quantity and quality of links pointing to it.
+This project, developed in collaboration with @Belvindev, models and simulates Google's famous **PageRank** algorithm. PageRank measures the importance of a webpage by analyzing the quantity and quality of links pointing to it.
 
 To estimate page popularity, we implemented a probabilistic model based on the **"Random Surfer"** concept using **Monte-Carlo** simulations.
 
