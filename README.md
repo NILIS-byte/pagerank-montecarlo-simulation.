@@ -47,4 +47,4 @@ To estimate page popularity, we implemented a probabilistic model based on the *
 
 Puoi aprire direttamente il notebook in Google Colab cliccando sul pulsante qui sotto / You can open the notebook directly in Google Colab by clicking the button below:
 
-[![Open In Colab](https://colab.research.google.com/drive/1hAoTq4NZyUG5UitLwopHPre98CHTKZTc)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) (https://colab.research.google.com/drive/1hAoTq4NZyUG5UitLwopHPre98CHTKZTc)
